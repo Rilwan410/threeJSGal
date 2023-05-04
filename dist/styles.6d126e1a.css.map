@@ -1,1 +1,0 @@
-{"version":3,"sources":["scss/styles.scss"],"names":[],"mappings":"AAAA,KACE,SAAU,CACV,QAAS,CACT,cAAe,CAHjB,YAKI,kBAAmB","file":"styles.6d126e1a.css","sourceRoot":"..","sourcesContent":["body {\n  padding: 0;\n  margin: 0;\n  position: fixed;\n  canvas {\n    background: #515151;\n  }\n}\n"]}
