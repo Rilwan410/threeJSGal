@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/styles.scss"],"names":[],"mappings":"AAEA,KACI,SAAS,CACT,QAAQ,CACR,cAAc","file":"styles.77c518df.css","sourceRoot":"..","sourcesContent":["\n\nbody {\n    padding:0;\n    margin:0;\n    position:fixed;\n}\n"]}
